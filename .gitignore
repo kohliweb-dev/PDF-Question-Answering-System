@@ -1,0 +1,12 @@
+
+.venv/
+myvenv/
+__pycache__/
+*.pyc
+chroma_db/
+.env
+
+
+# Ignore PDF files
+*.pdf
+pdf_uploader
